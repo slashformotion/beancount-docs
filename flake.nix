@@ -20,7 +20,7 @@
       in {
         devShell = pkgs.mkShell {
           buildInputs = with pkgs; [
-            opencode
+            # opencode ## I don't see the hype, ratelimit are so low after an hour of intense use with antigravity you are blocked...
             mdbook
             beancount
           ];
