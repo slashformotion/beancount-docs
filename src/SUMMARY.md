@@ -4,6 +4,9 @@
 
 # Tutorials
 - [Getting Started with Beancount 3](tutorials/getting-started.md)
+- [Recording Income and Split Transactions](tutorials/earning-and-splitting.md)
+- [Managing Credit Cards and Loans](tutorials/credit-cards-and-liabilities.md)
+- [Reconciling with Balance Assertions](tutorials/reconciling-balances.md)
 
 # How-to Guides
 - [How to Record Transactions](how-to/recording-transactions.md)
