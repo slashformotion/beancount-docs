@@ -7,21 +7,29 @@
 - [Recording Income and Split Transactions](tutorials/earning-and-splitting.md)
 - [Managing Credit Cards and Loans](tutorials/credit-cards-and-liabilities.md)
 - [Reconciling with Balance Assertions](tutorials/reconciling-balances.md)
+- [Advanced Investing: Stocks and Capital Gains](tutorials/investing.md)
 
 # How-to Guides
+
+### Basics
 - [How to Record Transactions](how-to/recording-transactions.md)
-- [How to Record Trades](how-to/recording-trades.md)
-- [How to Track Stock Vesting (RSUs)](how-to/stock-vesting.md)
+- [How to Manage Documents](how-to/managing-documents.md)
+- [How to Organize Your Accounts](how-to/organizing-accounts.md)
 - [Managing Shared Expenses](how-to/shared-expenses.md)
 - [Health Care & Insurance](how-to/health-care.md)
+
+### Trading & Investments
+- [How to Record Trades](how-to/recording-trades.md)
+- [How to Track Stock Vesting (RSUs)](how-to/stock-vesting.md)
+- [How to Track Settlement Dates](how-to/settlement-dates.md)
 - [Portfolio Returns](how-to/portfolio-returns.md)
 - [Short Sales](how-to/short-sales.md)
-- [How to Manage Documents](how-to/managing-documents.md)
 - [How to Fetch Market Prices](how-to/fetching-prices.md)
+
+### Workflow & Reporting
+- [How to Run Reports](how-to/running-reports.md)
 - [Query Cookbook](how-to/query-cookbook.md)
 - [Year-End Procedures](how-to/year-end-procedures.md)
-- [How to Organize Your Accounts](how-to/organizing-accounts.md)
-- [How to Run Reports](how-to/running-reports.md)
 - [Using Fava (Web UI)](how-to/using-fava.md)
 - [Writing Importers with Beangulp](how-to/writing-importers.md)
 
